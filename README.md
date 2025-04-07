@@ -16,7 +16,7 @@ Composer: Последняя версия
 ## Запустите проект
 php bin/console server:run
 
-## Коротке пояснення ваших рішень щодо реалізації
+## Коротке пояснення рішень щодо реалізації
 ## 1 Установка Symfony (LTS-версия 6.4) 
 ## 2 Установка необходимых компонентов
  composer require symfony/http-client symfony/config symfony/dotenv symfony/monolog-bundle
